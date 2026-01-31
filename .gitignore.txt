@@ -1,0 +1,6 @@
+# Large datasets
+*.csv
+*.xlsx
+
+# Power BI
+*.pbix
