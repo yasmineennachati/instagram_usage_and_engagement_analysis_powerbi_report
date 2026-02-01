@@ -15,7 +15,7 @@ Dataset Name: Social Media User Analysis
 Link:
 👉 https://www.kaggle.com/datasets/rockyt07/social-media-user-analysis
 
-⚠️ The dataset is not included in this repository due to size limitations. Please download it directly from Kaggle using the link above.
+
 
 ## 🎯 Project Objectives
 - Analyze global Instagram engagement levels
@@ -35,15 +35,7 @@ Link:
   - Content preferences
   - Lifestyle indicators
 
-⚠️ Note: The .pbix report is not included in this repository 
-due to GitHub file size limitations.
 
-The project focuses on:
-- Data modeling
-- ETL logic
-- SQL Data Warehouse design
-- Power BI analytics and storytelling
- : 
 ---
 
 ## 🏗️ Data Architecture & Pipeline
